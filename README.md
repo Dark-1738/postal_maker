@@ -1,4 +1,4 @@
-# Postal Maker - Fix by Dark
+# Postal Maker - Fix by Dark (thanks to marshular for the script)
 I made this because ~Im working~ *I was working* on a Liberty City server and needed postals, so I decided to try out my "coding" skills and make something of my own. 
 
 Please keep in-mind this is the "first" actual script I made on my own, so feedback would be much appreciated. 
